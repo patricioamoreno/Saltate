@@ -1,0 +1,1143 @@
+# depslib dependency file v1.0
+1473877629 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto1/main.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"vecinos.h"
+
+1473876289 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto1/vecinos.h
+
+1473876396 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto1/vecinos.cpp
+	<stdio.h>
+	<math.h>
+
+1473876396 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto2/vecinos.cpp
+	<stdio.h>
+	<math.h>
+
+1475076669 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto2/main.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"vecinos.h"
+
+1473876289 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto2/vecinos.h
+
+1473876396 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto3/vecinos.cpp
+	<stdio.h>
+	<math.h>
+
+1475170887 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto3/main.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"vecinos.h"
+
+1473876289 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto3/vecinos.h
+
+1473876396 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto5/vecinos.cpp
+	<stdio.h>
+	<math.h>
+
+1475692770 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto5/limitate.cpp
+
+1475693480 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto5/main.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"vecinos.h"
+	"NRaphson.h"
+	"TransMat.h"
+	"trig.h"
+	"limitate.h"
+	"rebound.h"
+
+1473876289 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto5/vecinos.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto5/NRaphson.h
+
+1475695581 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto5/TransMat.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto5/trig.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto5/limitate.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto5/rebound.h
+
+1475695532 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto5/NRaphson.cpp
+	<math.h>
+	<stdlib.h>
+
+1475690910 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto5/rebound.cpp
+	<stdio.h>
+	<math.h>
+
+1475695581 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto5/TransMat.cpp
+	<math.h>
+
+1475692770 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto6/limitate.cpp
+
+1476300327 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto6/main.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"vecinos.h"
+	"wallcoll2.h"
+
+1473876289 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto6/vecinos.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto6/NRaphson.h
+
+1475695581 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto6/TransMat.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto6/trig.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto6/limitate.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto6/rebound.h
+
+1475695532 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto6/NRaphson.cpp
+	<math.h>
+	<stdlib.h>
+
+1476294225 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto6/rebound.cpp
+	<stdio.h>
+	<math.h>
+
+1476285408 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto6/TransMat.cpp
+	<math.h>
+
+1475695612 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto6/trig.cpp
+	<math.h>
+	<stdlib.h>
+
+1473876396 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto6/vecinos.cpp
+	<stdio.h>
+	<math.h>
+
+1476297343 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto6/wallcoll2.h
+
+1476288616 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto6/invertirM.cpp
+	<stdio.h>
+
+1476297378 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto6/wallcoll2.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"NRaphson.h"
+	"TransMat.h"
+	"trig.h"
+	"limitate.h"
+	"rebound.h"
+	"invertirM.h"
+
+1476288558 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto6/invertirM.h
+
+1475692770 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto7/limitate.cpp
+
+1476726885 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto7/main.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"vecinos.h"
+	"wallcoll2.h"
+
+1473876289 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto7/vecinos.h
+
+1476724330 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto7/wallcoll2.h
+
+1475695532 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto7/NRaphson.cpp
+	<math.h>
+	<stdlib.h>
+
+1476726695 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto7/rebound.cpp
+	<stdio.h>
+	<math.h>
+
+1476285408 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto7/TransMat.cpp
+	<math.h>
+
+1475695612 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto7/trig.cpp
+	<math.h>
+	<stdlib.h>
+
+1473876396 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto7/vecinos.cpp
+	<stdio.h>
+	<math.h>
+
+1476726695 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto7/wallcoll2.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"NRaphson.h"
+	"TransMat.h"
+	"trig.h"
+	"limitate.h"
+	"rebound.h"
+	"invertirM.h"
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto7/NRaphson.h
+
+1475695581 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto7/TransMat.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto7/trig.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto7/limitate.h
+
+1476726695 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto7/rebound.h
+
+1476460592 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto7/invertirM.h
+
+1476719133 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto7/invertirM.cpp
+	<stdio.h>
+	<iostream>
+
+1476719133 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto8/invertirM.cpp
+	<stdio.h>
+	<iostream>
+
+1475692770 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto8/limitate.cpp
+
+1476726885 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto8/main.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"vecinos.h"
+	"wallcoll2.h"
+
+1473876289 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto8/vecinos.h
+
+1476724330 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto8/wallcoll2.h
+
+1475695532 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto8/NRaphson.cpp
+	<math.h>
+	<stdlib.h>
+
+1476726695 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto8/rebound.cpp
+	<stdio.h>
+	<math.h>
+
+1476285408 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto8/TransMat.cpp
+	<math.h>
+
+1475695612 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto8/trig.cpp
+	<math.h>
+	<stdlib.h>
+
+1473876396 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto8/vecinos.cpp
+	<stdio.h>
+	<math.h>
+
+1476726695 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto8/wallcoll2.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"NRaphson.h"
+	"TransMat.h"
+	"trig.h"
+	"limitate.h"
+	"rebound.h"
+	"invertirM.h"
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto8/NRaphson.h
+
+1475695581 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto8/TransMat.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto8/trig.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto8/limitate.h
+
+1476726695 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto8/rebound.h
+
+1476460592 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto8/invertirM.h
+
+1476719133 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto9/invertirM.cpp
+	<stdio.h>
+	<iostream>
+
+1475692770 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto9/limitate.cpp
+
+1475695532 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto9/NRaphson.cpp
+	<math.h>
+	<stdlib.h>
+
+1476726695 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto9/rebound.cpp
+	<stdio.h>
+	<math.h>
+
+1476285408 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto9/TransMat.cpp
+	<math.h>
+
+1475695612 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto9/trig.cpp
+	<math.h>
+	<stdlib.h>
+
+1473876396 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto9/vecinos.cpp
+	<stdio.h>
+	<math.h>
+
+1476726695 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto9/wallcoll2.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"NRaphson.h"
+	"TransMat.h"
+	"trig.h"
+	"limitate.h"
+	"rebound.h"
+	"invertirM.h"
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto9/NRaphson.h
+
+1475695581 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto9/TransMat.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto9/trig.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto9/limitate.h
+
+1476726695 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto9/rebound.h
+
+1476460592 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto9/invertirM.h
+
+1477410430 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto9/main.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"vecinos.h"
+	"wallcoll2.h"
+
+1473876289 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto9/vecinos.h
+
+1476724330 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto9/wallcoll2.h
+
+1476719133 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto10/invertirM.cpp
+	<stdio.h>
+	<iostream>
+
+1475692770 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto10/limitate.cpp
+
+1475695532 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto10/NRaphson.cpp
+	<math.h>
+	<stdlib.h>
+
+1476726695 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto10/rebound.cpp
+	<stdio.h>
+	<math.h>
+
+1476285408 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto10/TransMat.cpp
+	<math.h>
+
+1475695612 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto10/trig.cpp
+	<math.h>
+	<stdlib.h>
+
+1473876396 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto10/vecinos.cpp
+	<stdio.h>
+	<math.h>
+
+1476726695 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto10/wallcoll2.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"NRaphson.h"
+	"TransMat.h"
+	"trig.h"
+	"limitate.h"
+	"rebound.h"
+	"invertirM.h"
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto10/NRaphson.h
+
+1475695581 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto10/TransMat.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto10/trig.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto10/limitate.h
+
+1476726695 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto10/rebound.h
+
+1476460592 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto10/invertirM.h
+
+1478185764 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto10/main.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"vecinos.h"
+	"wallcoll2.h"
+
+1473876289 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto10/vecinos.h
+
+1476724330 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto10/wallcoll2.h
+
+1476719133 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto11/invertirM.cpp
+	<stdio.h>
+	<iostream>
+
+1475692770 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto11/limitate.cpp
+
+1478719428 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto11/main.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"vecinos.h"
+	"wallcoll2.h"
+
+1473876289 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto11/vecinos.h
+
+1476724330 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto11/wallcoll2.h
+
+1478195744 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto11/NRaphson.cpp
+	<math.h>
+	<stdlib.h>
+
+1478718210 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto11/rebound.cpp
+	<stdio.h>
+	<math.h>
+
+1476285408 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto11/TransMat.cpp
+	<math.h>
+
+1475695612 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto11/trig.cpp
+	<math.h>
+	<stdlib.h>
+
+1473876396 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto11/vecinos.cpp
+	<stdio.h>
+	<math.h>
+
+1478719236 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto11/wallcoll2.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"NRaphson.h"
+	"TransMat.h"
+	"trig.h"
+	"limitate.h"
+	"rebound.h"
+	"invertirM.h"
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto11/NRaphson.h
+
+1475695581 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto11/TransMat.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto11/trig.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto11/limitate.h
+
+1476726695 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto11/rebound.h
+
+1476460592 /home/usuario3/Documentos/Eduardo/C++/Proyecto/Proyecto11/invertirM.h
+
+1476719133 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01/invertirM.cpp
+	<stdio.h>
+	<iostream>
+
+1475692770 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01/limitate.cpp
+
+1478195744 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01/NRaphson.cpp
+	<math.h>
+	<stdlib.h>
+
+1478718210 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01/rebound.cpp
+	<stdio.h>
+	<math.h>
+
+1476285408 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01/TransMat.cpp
+	<math.h>
+
+1475695612 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01/trig.cpp
+	<math.h>
+	<stdlib.h>
+
+1473876396 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01/vecinos.cpp
+	<stdio.h>
+	<math.h>
+
+1478889456 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01/wallcoll2.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"NRaphson.h"
+	"TransMat.h"
+	"trig.h"
+	"limitate.h"
+	"rebound.h"
+	"invertirM.h"
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01/NRaphson.h
+
+1475695581 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01/TransMat.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01/trig.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01/limitate.h
+
+1476726695 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01/rebound.h
+
+1476460592 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01/invertirM.h
+
+1478889394 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01/Drag_Rot.cpp
+	<math.h>
+
+1478889510 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01/main.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"vecinos.h"
+	"wallcoll2.h"
+	"Drag_Rot.h"
+
+1473876289 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01/vecinos.h
+
+1476724330 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01/wallcoll2.h
+
+1478889376 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01/Drag_Rot.h
+
+1478889394 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01 adimensional/Drag_Rot.cpp
+	<math.h>
+
+1476719133 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01 adimensional/invertirM.cpp
+	<stdio.h>
+	<iostream>
+
+1475692770 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01 adimensional/limitate.cpp
+
+1478195744 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01 adimensional/NRaphson.cpp
+	<math.h>
+	<stdlib.h>
+
+1479144119 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01 adimensional/rebound.cpp
+	<stdio.h>
+	<math.h>
+
+1476285408 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01 adimensional/TransMat.cpp
+	<math.h>
+
+1475695612 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01 adimensional/trig.cpp
+	<math.h>
+	<stdlib.h>
+
+1473876396 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01 adimensional/vecinos.cpp
+	<stdio.h>
+	<math.h>
+
+1478889456 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01 adimensional/wallcoll2.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"NRaphson.h"
+	"TransMat.h"
+	"trig.h"
+	"limitate.h"
+	"rebound.h"
+	"invertirM.h"
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01 adimensional/NRaphson.h
+
+1475695581 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01 adimensional/TransMat.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01 adimensional/trig.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01 adimensional/limitate.h
+
+1476726695 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01 adimensional/rebound.h
+
+1476460592 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01 adimensional/invertirM.h
+
+1479223144 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01 adimensional/main.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"vecinos.h"
+	<iostream>
+	"wallcoll2.h"
+	"Drag_Rot.h"
+
+1473876289 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01 adimensional/vecinos.h
+
+1476724330 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01 adimensional/wallcoll2.h
+
+1478889376 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto01 adimensional/Drag_Rot.h
+
+1478889394 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto02/Drag_Rot.cpp
+	<math.h>
+
+1476719133 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto02/invertirM.cpp
+	<stdio.h>
+	<iostream>
+
+1475692770 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto02/limitate.cpp
+
+1478195744 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto02/NRaphson.cpp
+	<math.h>
+	<stdlib.h>
+
+1479144119 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto02/rebound.cpp
+	<stdio.h>
+	<math.h>
+
+1476285408 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto02/TransMat.cpp
+	<math.h>
+
+1475695612 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto02/trig.cpp
+	<math.h>
+	<stdlib.h>
+
+1473876396 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto02/vecinos.cpp
+	<stdio.h>
+	<math.h>
+
+1479232060 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto02/wallcoll2.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"NRaphson.h"
+	"TransMat.h"
+	"trig.h"
+	"limitate.h"
+	"rebound.h"
+	"invertirM.h"
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto02/NRaphson.h
+
+1475695581 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto02/TransMat.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto02/trig.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto02/limitate.h
+
+1476726695 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto02/rebound.h
+
+1476460592 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto02/invertirM.h
+
+1479325672 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto02/main.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"vecinos.h"
+	<iostream>
+	"wallcoll2.h"
+	"Drag_Rot.h"
+
+1473876289 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto02/vecinos.h
+
+1476724330 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto02/wallcoll2.h
+
+1478889376 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto02/Drag_Rot.h
+
+1478889394 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03/Drag_Rot.cpp
+	<math.h>
+
+1476719133 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03/invertirM.cpp
+	<stdio.h>
+	<iostream>
+
+1475692770 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03/limitate.cpp
+
+1480530515 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03/main.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"vecinos.h"
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	"wallcoll2.h"
+	"Drag_Rot.h"
+
+1473876289 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03/vecinos.h
+
+1476724330 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03/wallcoll2.h
+
+1478889376 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03/Drag_Rot.h
+
+1478195744 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03/NRaphson.cpp
+	<math.h>
+	<stdlib.h>
+
+1479144119 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03/rebound.cpp
+	<stdio.h>
+	<math.h>
+
+1476285408 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03/TransMat.cpp
+	<math.h>
+
+1475695612 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03/trig.cpp
+	<math.h>
+	<stdlib.h>
+
+1473876396 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03/vecinos.cpp
+	<stdio.h>
+	<math.h>
+
+1479232060 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03/wallcoll2.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"NRaphson.h"
+	"TransMat.h"
+	"trig.h"
+	"limitate.h"
+	"rebound.h"
+	"invertirM.h"
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03/NRaphson.h
+
+1475695581 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03/TransMat.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03/trig.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03/limitate.h
+
+1476726695 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03/rebound.h
+
+1476460592 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03/invertirM.h
+
+1478889394 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.1/Drag_Rot.cpp
+	<math.h>
+
+1476719133 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.1/invertirM.cpp
+	<stdio.h>
+	<iostream>
+
+1475692770 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.1/limitate.cpp
+
+1480531335 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.1/main.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"vecinos.h"
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	"wallcoll2.h"
+	"Drag_Rot.h"
+
+1473876289 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.1/vecinos.h
+
+1476724330 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.1/wallcoll2.h
+
+1478889376 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.1/Drag_Rot.h
+
+1478195744 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.1/NRaphson.cpp
+	<math.h>
+	<stdlib.h>
+
+1479144119 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.1/rebound.cpp
+	<stdio.h>
+	<math.h>
+
+1476285408 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.1/TransMat.cpp
+	<math.h>
+
+1475695612 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.1/trig.cpp
+	<math.h>
+	<stdlib.h>
+
+1473876396 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.1/vecinos.cpp
+	<stdio.h>
+	<math.h>
+
+1480531470 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.1/wallcoll2.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"NRaphson.h"
+	"TransMat.h"
+	"trig.h"
+	"limitate.h"
+	"rebound.h"
+	"invertirM.h"
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.1/NRaphson.h
+
+1475695581 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.1/TransMat.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.1/trig.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.1/limitate.h
+
+1476726695 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.1/rebound.h
+
+1476460592 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.1/invertirM.h
+
+1478889394 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.2/Drag_Rot.cpp
+	<math.h>
+
+1476719133 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.2/invertirM.cpp
+	<stdio.h>
+	<iostream>
+
+1475692770 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.2/limitate.cpp
+
+1480533014 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.2/main.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"vecinos.h"
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	"wallcoll2.h"
+	"Drag_Rot.h"
+
+1473876289 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.2/vecinos.h
+
+1476724330 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.2/wallcoll2.h
+
+1478889376 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.2/Drag_Rot.h
+
+1478195744 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.2/NRaphson.cpp
+	<math.h>
+	<stdlib.h>
+
+1480617053 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.2/TransMat.cpp
+	<math.h>
+
+1475695612 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.2/trig.cpp
+	<math.h>
+	<stdlib.h>
+
+1473876396 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.2/vecinos.cpp
+	<stdio.h>
+	<math.h>
+
+1480617053 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.2/wallcoll2.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"NRaphson.h"
+	"TransMat.h"
+	"trig.h"
+	"limitate.h"
+	"rebound.h"
+	"invertirM.h"
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.2/NRaphson.h
+
+1480616994 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.2/TransMat.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.2/trig.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.2/limitate.h
+
+1476726695 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.2/rebound.h
+
+1476460592 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.2/invertirM.h
+
+1480618324 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/Proyecto03.2/rebound.cpp
+	<stdio.h>
+	<math.h>
+
+1478889394 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto01/Drag_Rot.cpp
+	<math.h>
+
+1476719133 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto01/invertirM.cpp
+	<stdio.h>
+	<iostream>
+
+1475692770 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto01/limitate.cpp
+
+1480623321 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto01/main.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"vecinos.h"
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	"wallcoll2.h"
+	"Drag_Rot.h"
+
+1473876289 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto01/vecinos.h
+
+1476724330 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto01/wallcoll2.h
+
+1478889376 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto01/Drag_Rot.h
+
+1478195744 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto01/NRaphson.cpp
+	<math.h>
+	<stdlib.h>
+
+1480618324 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto01/rebound.cpp
+	<stdio.h>
+	<math.h>
+
+1480617053 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto01/TransMat.cpp
+	<math.h>
+
+1475695612 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto01/trig.cpp
+	<math.h>
+	<stdlib.h>
+
+1473876396 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto01/vecinos.cpp
+	<stdio.h>
+	<math.h>
+
+1480617053 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto01/wallcoll2.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"NRaphson.h"
+	"TransMat.h"
+	"trig.h"
+	"limitate.h"
+	"rebound.h"
+	"invertirM.h"
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto01/NRaphson.h
+
+1480616994 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto01/TransMat.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto01/trig.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto01/limitate.h
+
+1476726695 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto01/rebound.h
+
+1476460592 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto01/invertirM.h
+
+1478889394 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto02/Drag_Rot.cpp
+	<math.h>
+
+1476719133 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto02/invertirM.cpp
+	<stdio.h>
+	<iostream>
+
+1475692770 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto02/limitate.cpp
+
+1481037765 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto02/main.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"vecinos.h"
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	"wallcoll2.h"
+	"Drag_Rot.h"
+
+1473876289 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto02/vecinos.h
+
+1476724330 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto02/wallcoll2.h
+
+1478889376 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto02/Drag_Rot.h
+
+1478195744 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto02/NRaphson.cpp
+	<math.h>
+	<stdlib.h>
+
+1480618324 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto02/rebound.cpp
+	<stdio.h>
+	<math.h>
+
+1480617053 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto02/TransMat.cpp
+	<math.h>
+
+1475695612 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto02/trig.cpp
+	<math.h>
+	<stdlib.h>
+
+1473876396 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto02/vecinos.cpp
+	<stdio.h>
+	<math.h>
+
+1480617053 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto02/wallcoll2.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"NRaphson.h"
+	"TransMat.h"
+	"trig.h"
+	"limitate.h"
+	"rebound.h"
+	"invertirM.h"
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto02/NRaphson.h
+
+1480616994 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto02/TransMat.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto02/trig.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto02/limitate.h
+
+1476726695 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto02/rebound.h
+
+1476460592 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto02/invertirM.h
+
+1478889394 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03/Drag_Rot.cpp
+	<math.h>
+
+1476719133 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03/invertirM.cpp
+	<stdio.h>
+	<iostream>
+
+1475692770 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03/limitate.cpp
+
+1478195744 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03/NRaphson.cpp
+	<math.h>
+	<stdlib.h>
+
+1480618324 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03/rebound.cpp
+	<stdio.h>
+	<math.h>
+
+1480617053 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03/TransMat.cpp
+	<math.h>
+
+1475695612 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03/trig.cpp
+	<math.h>
+	<stdlib.h>
+
+1473876396 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03/vecinos.cpp
+	<stdio.h>
+	<math.h>
+
+1480617053 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03/wallcoll2.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"NRaphson.h"
+	"TransMat.h"
+	"trig.h"
+	"limitate.h"
+	"rebound.h"
+	"invertirM.h"
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03/NRaphson.h
+
+1480616994 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03/TransMat.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03/trig.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03/limitate.h
+
+1476726695 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03/rebound.h
+
+1476460592 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03/invertirM.h
+
+1478889394 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03v2/Drag_Rot.cpp
+	<math.h>
+
+1476719133 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03v2/invertirM.cpp
+	<stdio.h>
+	<iostream>
+
+1475692770 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03v2/limitate.cpp
+
+1478195744 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03v2/NRaphson.cpp
+	<math.h>
+	<stdlib.h>
+
+1480618324 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03v2/rebound.cpp
+	<stdio.h>
+	<math.h>
+
+1480617053 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03v2/TransMat.cpp
+	<math.h>
+
+1481817583 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03v2/trig.cpp
+	<math.h>
+	<stdlib.h>
+
+1473876396 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03v2/vecinos.cpp
+	<stdio.h>
+	<math.h>
+
+1481817583 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03v2/wallcoll2.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"NRaphson.h"
+	"TransMat.h"
+	"trig.h"
+	"limitate.h"
+	"rebound.h"
+	"invertirM.h"
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03v2/NRaphson.h
+
+1480616994 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03v2/TransMat.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03v2/trig.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03v2/limitate.h
+
+1476726695 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03v2/rebound.h
+
+1476460592 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03v2/invertirM.h
+
+1481817664 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03v2/main.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"vecinos.h"
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	"wallcoll2.h"
+	"Drag_Rot.h"
+
+1473876289 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03v2/vecinos.h
+
+1476724330 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03v2/wallcoll2.h
+
+1478889376 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto03v2/Drag_Rot.h
+
+1478889394 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto04/Drag_Rot.cpp
+	<math.h>
+
+1476719133 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto04/invertirM.cpp
+	<stdio.h>
+	<iostream>
+
+1475692770 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto04/limitate.cpp
+
+1478195744 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto04/NRaphson.cpp
+	<math.h>
+	<stdlib.h>
+
+1480618324 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto04/rebound.cpp
+	<stdio.h>
+	<math.h>
+
+1480617053 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto04/TransMat.cpp
+	<math.h>
+
+1481817583 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto04/trig.cpp
+	<math.h>
+	<stdlib.h>
+
+1473876396 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto04/vecinos.cpp
+	<stdio.h>
+	<math.h>
+
+1481820621 source:/home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto04/wallcoll2.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"NRaphson.h"
+	"TransMat.h"
+	"trig.h"
+	"limitate.h"
+	"rebound.h"
+	"invertirM.h"
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto04/NRaphson.h
+
+1480616994 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto04/TransMat.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto04/trig.h
+
+1475695484 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto04/limitate.h
+
+1476726695 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto04/rebound.h
+
+1476460592 /home/usuario3/Documentos/Eduardo/C++/Proyecto/terminando codigo/arreglando escritura de datos/Proyecto04/invertirM.h
+
